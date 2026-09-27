@@ -1,0 +1,7 @@
+{
+  "name": "SAROY REALTY | Uchastka va Zamonaviy Domlar",
+  "description": "O'zbekistondagi hashamatli uchastkalar va zamonaviy ko'p qavatli domlar platformasi. 4K Cinematic 3D arxitektura va virtual turlar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
